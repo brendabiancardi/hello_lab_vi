@@ -1,5 +1,2 @@
-first line
-Second line
-Não gostei do vim code
-Bem confuso 
-SOCORRO
+first new line
+second linei
